@@ -62,11 +62,11 @@ grandfatherClock.chime();
 //  2) 
 //  Noun: parallel dimension
 //  action 1: the parallel dimension is diverging
-parallelDimension.slidingDoors();
+parallelDimension.isDiverging();
 //  action 2: the parallel dimension is opening a wormhole
-parallelDimension.ricksPortalGun();
+parallelDimension.opensWormhole();
 //  action 3: the parallel dimension does not have dark matter and will collapse on itself
-parallelDimension.bigCrunch;
+parallelDimension.doesNotHaveDarkMatterAndWIllCollapse();
 //  3)
 //  Noun: sun
 //  action 1: the sun rises
