@@ -60,13 +60,13 @@ grandfatherClock.tock();
 //  action 3: the grandfather clock chimes
 grandfatherClock.chime();
 //  2) 
-//  Noun: baby
-//  action 1: the baby cries
-baby.cry();
-//  action 2: the baby sleeps
-baby.sleep();
-//  action 3: the baby laughs
-baby.laugh();
+//  Noun: parallel dimension
+//  action 1: the parallel dimension is diverging
+parallelDimension.slidingDoors();
+//  action 2: the parallel dimension is opening a wormhole
+parallelDimension.ricksPortalGun();
+//  action 3: the parallel dimension does not have dark matter and will collapse on itself
+parallelDimension.bigCrunch;
 //  3)
 //  Noun: sun
 //  action 1: the sun rises
