@@ -116,7 +116,7 @@ hater.epiphany();
 //  action 3: the hater loves
 hater.love();
 //  9) 
-//  Noun: bird
+//  Noun: camel
 //  action 1: the camel walks
 camel.walk();
 //  action 2: the camel spits
