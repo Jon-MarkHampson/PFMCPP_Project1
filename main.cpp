@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: grandfatherClock
+//  action 1: the grandfather clock ticks
+grandfatherClock.tick();
+//  action 2: the grandfather clock tocks
+grandfatherClock.tock();
+//  action 3: the grandfather clock chimes
+grandfatherClock.chime();
+//  2) 
+//  Noun: baby
+//  action 1: the baby cries
+baby.cry();
+//  action 2: the baby sleeps
+baby.sleep();
+//  action 3: the baby laughs
+baby.laugh();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: sun
+//  action 1: the sun rises
+sun.rise();
+//  action 2: the sun sets
+sun.set();
+//  action 3: the sun goes supernova
+sun.supernova();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: cat
+//  action 1: the cat purrs
+cat.purr();
+//  action 2: the cat meows
+cat.meow();
+//  action 3: the cat coughs up a furball
+cat.furball();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: tree
+//  action 1: the tree grows
+tree.grow();
+//  action 2: the tree flowers
+tree.flower();
+//  action 3: the tree sheds it leaves
+tree.shed();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: student
+//  action 1: the student parties
+student.party();
+//  action 2: the student panics
+student.panic();
+//  action 3: the student studies
+student.study();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: water
+//  action 1: the water freezes
+water.freeze();
+//  action 2: the water melts
+water.melt();
+//  action 3: the water evaporates
+water.evaporate();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: hater
+//  action 1: the hater hates
+hater.hate();
+//  action 2: the hater realises the error of his ways
+hater.epiphany();
+//  action 3: the hater loves
+hater.love();
+//  9) 
+//  Noun: bird
+//  action 1: the camel walks
+camel.walk();
+//  action 2: the camel spits
+camel.spit();
+//  action 3: the camel eats
+camel.eat();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: oldMan
+//  action 1: the old man sleeps
+oldMan.sleep();
+//  action 2: the old man moans
+oldMan.moan();
+//  action 3: the old man farts
+oldMan.fart();
 
 
 #endif
